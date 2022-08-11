@@ -1,5 +1,35 @@
+# 🌈文初lerry
+
+<p align="center">
+  <a href="https://gitee.com/lerryxia/note" target="_blank">
+    <img src="https://gitee.com/lerryxia/note/badge/star.svg?theme=white" alt="star"/>
+    <img src="https://gitee.com/lerryxia/note/badge/fork.svg" alt="fork"/>
+  </a>
+  <a href="https://github.com/lerryxia/note" target="_blank">
+    <img src="https://img.shields.io/github/stars/lerryxia/note.svg?style=social" alt="github star"/>
+    <img src="https://img.shields.io/github/forks/lerryxia/note.svg?style=social" alt="github fork"/>
+  </a>
+  <a href="https://github.com/java" target="_blank">
+    <img src="https://img.shields.io/badge/Java-17%2B-yellow.svg" alt="golang"/>
+  </a>
+  <a href="https://cn.vuejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/Vue-3.x-green.svg" alt="vue">
+  </a>
+ <a href="https://cn.vuejs.org" target="_blank">
+    <img src="https://img.shields.io/badge/MarkDown-3.x-green.svg" alt="vue">
+  </a>
+</p>
+
+![logo](logo.png)
 # Java学习笔记
+## 介绍
+>Java学习源码及笔记 从Java基础到Javaweb ;
+> 包含了 Maven,spring,Spring Boot技术 ,
+> 以及 Mybati框架Git命令学习等
+
 ## 一,Java基础
+<img src="wy.png" width="120">
+
 1. [Java基础语法](JavaBasic/d1-Java基础语法.md)
 2. [数据流程控制](JavaBasic/d2-数据流程控制.md)
 3. [数组](JavaBasic/d3-数组.md)
@@ -14,6 +44,8 @@
 12. [File类与IO流](JavaBasic/d13-File类与IO流.md)
 13. [多线程技术](JavaBasic/d14-多线程技术.md)
 ## 二,JavaWeb基础
+<img src="boy3.png" width="120">
+
 1. [Mysql](JavaWeb/d1-Mysql.md)
 2. [JDBC](JavaWeb/d2-JDBC.md)
 3. [Mybatis入门](JavaWeb/d3-Mybatis.md)
@@ -30,11 +62,3 @@
 1. [Git常用命令](#)
 2. [Git分支](#)
 3. [解决冲突](#)
-## 五,SSM框架
-### 1) Spring
-### 2) Maven
-### 3) Spring Boot
-### 4) Mybatis Plus
-## 六,Mybatis Plus学习
-## 七,Spring Boot
-## 八,Spring Cloud
