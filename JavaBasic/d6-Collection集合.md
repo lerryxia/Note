@@ -1,5 +1,3 @@
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/26429278/1656052639077-8d4dad3c-56fa-43b5-9ebc-b0364901d6c0.png#clientId=u5002c988-c8ff-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=ua4a07ed1&margin=%5Bobject%20Object%5D&name=image.png&originHeight=446&originWidth=908&originalType=url&ratio=1&rotation=0&showTitle=false&size=65711&status=done&style=none&taskId=u872ac9be-61c6-42b6-8b69-15cca9a5510&title=)
-
 ## **Collection**
 
 Collection集合是最上层的接口，是所有集合的父接口
