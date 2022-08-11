@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7288137d-4060-4fbd-be27-b5617c279b7c" name="变更" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DCW3c5aQ2Doe9n4icYR30Dtv3q" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Project/Markdown/java-note/JavaWeb/assets&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.web.browsers&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Markdown\java-note\JavaWeb\assets" />
+      <recent name="D:\Project\Markdown\java-note\JavaWeb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Markdown\java-note\img\JavaBasic" />
+      <recent name="D:\Project\Markdown\java-note\img" />
+      <recent name="D:\Project\Markdown\java-note\code" />
+      <recent name="D:\Project\Markdown\java-note" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7288137d-4060-4fbd-be27-b5617c279b7c" name="变更" comment="" />
+      <created>1660203349200</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660203349200</updated>
+      <workItem from="1660203350813" duration="7202000" />
+      <workItem from="1660210791110" duration="5120000" />
+      <workItem from="1660217556525" duration="6198000" />
+      <workItem from="1660223820651" duration="3684000" />
+      <workItem from="1660227674737" duration="1025000" />
+    </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1660204127208</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660204127208</updated>
+    </task>
+    <task id="LOCAL-00002" summary="优化目录">
+      <created>1660204272442</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660204272442</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更改相对路径写法">
+      <created>1660204553329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660204553329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更改相对路径写法">
+      <created>1660204800333</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660204800333</updated>
+    </task>
+    <task id="LOCAL-00005" summary="更改相对路径写法">
+      <created>1660205297356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660205297356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更改相对路径写法">
+      <created>1660205501045</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1660205501045</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加笔记">
+      <created>1660207448775</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660207448775</updated>
+    </task>
+    <task id="LOCAL-00008" summary="添加笔记javaBasic笔记">
+      <created>1660210819272</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660210819272</updated>
+    </task>
+    <task id="LOCAL-00009" summary="添加笔记javaBasic笔记">
+      <created>1660211398466</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660211398466</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update">
+      <created>1660213176318</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660213176318</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update">
+      <created>1660217738874</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660217738874</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update">
+      <created>1660217861608</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1660217861608</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update">
+      <created>1660226422221</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226422221</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update">
+      <created>1660226599110</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226599110</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1660226627358</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226627358</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update">
+      <created>1660226681691</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226681691</updated>
+    </task>
+    <task id="LOCAL-00017" summary="update">
+      <created>1660226720560</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226720560</updated>
+    </task>
+    <task id="LOCAL-00018" summary="update">
+      <created>1660226724406</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226724406</updated>
+    </task>
+    <task id="LOCAL-00019" summary="update">
+      <created>1660226822149</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226822149</updated>
+    </task>
+    <task id="LOCAL-00020" summary="update">
+      <created>1660226874069</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1660226874069</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update">
+      <created>1660227714739</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1660227714739</updated>
+    </task>
+    <task id="LOCAL-00022" summary="update">
+      <created>1660228325454</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1660228325454</updated>
+    </task>
+    <task id="LOCAL-00023" summary="update">
+      <created>1660228431359</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1660228431359</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7ba5bb98-3a8e-4c9c-ad55-b3a120892ba6">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7ba5bb98-3a8e-4c9c-ad55-b3a120892ba6" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <MESSAGE value="优化目录" />
+    <MESSAGE value="更改相对路径写法" />
+    <MESSAGE value="添加笔记" />
+    <MESSAGE value="添加笔记javaBasic笔记" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>
